@@ -23,3 +23,13 @@ Aplikasi Penjualan Laptop is a Flutter-based mobile application designed to prov
 
    ```bash
    https://github.com/DhimasRizaldy/aplikasi_penjualan_laptop.git
+
+2. Running Project:
+
+   - **flutter pub get**
+   - **flutter run**
+
+3. Download APK:
+   https://drive.google.com/file/d/1I31BEEMktLpIH76RHgR9axFevZNMDQMI/view?usp=sharing
+   
+
