@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Laptop Gaming A",
+    "price": "Rp 15,000,000",
+    "description": "Laptop Gaming dengan performa tinggi.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA GTX 1650"
+    }
+  },
+  {
+    "name": "Laptop Office B",
+    "price": "Rp 10,000,000",
+    "description": "Laptop ideal untuk kebutuhan kantor.",
+    "category": "Office",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Gaming X",
+    "price": "Rp 18,000,000",
+    "description": "Performa gaming super cepat dengan layar 144Hz.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 7",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3060"
+    }
+  },
+  {
+    "name": "Laptop Office C",
+    "price": "Rp 8,500,000",
+    "description": "Laptop portabel dan hemat daya untuk pekerjaan sehari-hari.",
+    "category": "Office",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i3",
+      "ram": "4 GB",
+      "storage": "128 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Premium D",
+    "price": "Rp 25,000,000",
+    "description": "Laptop premium dengan desain elegan dan performa terbaik.",
+    "category": "Premium",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3080"
+    }
+  },
+  {
+    "name": "Laptop Gaming Z",
+    "price": "Rp 20,000,000",
+    "description": "Laptop gaming dengan layar 4K untuk pengalaman visual luar biasa.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA GTX 1660 Ti"
+    }
+  },
+  {
+    "name": "Laptop Design E",
+    "price": "Rp 12,000,000",
+    "description": "Laptop dengan desain tipis dan layar berkualitas tinggi.",
+    "category": "Design",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Business F",
+    "price": "Rp 13,000,000",
+    "description": "Laptop bisnis dengan daya tahan baterai yang lama.",
+    "category": "Business",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "512 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Entertain G",
+    "price": "Rp 9,000,000",
+    "description": "Laptop dengan audio dan layar terbaik untuk hiburan.",
+    "category": "Entertain",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "512 GB SSD",
+      "graphics": "Intel UHD Graphics"
+    }
+  },
+  {
+    "name": "Laptop Gaming Y",
+    "price": "Rp 17,000,000",
+    "description": "Laptop gaming dengan kecepatan refresh tinggi.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 2070"
+    }
+  },
+  {
+    "name": "Laptop Ultrabook H",
+    "price": "Rp 14,000,000",
+    "description": "Laptop ultrabook dengan performa dan portabilitas tinggi.",
+    "category": "Ultrabook",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Business Pro I",
+    "price": "Rp 20,000,000",
+    "description": "Laptop bisnis dengan performa dan desain premium.",
+    "category": "Business",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD"
+    }
+  },
+  {
+    "name": "Laptop Budget J",
+    "price": "Rp 7,500,000",
+    "description": "Laptop budget dengan spesifikasi yang cukup untuk kebutuhan dasar.",
+    "category": "Budget",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Pentium",
+      "ram": "4 GB",
+      "storage": "128 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop 2-in-1 K",
+    "price": "Rp 13,500,000",
+    "description": "Laptop 2-in-1 yang bisa digunakan sebagai tablet.",
+    "category": "Convertible",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Creator L",
+    "price": "Rp 25,000,000",
+    "description": "Laptop khusus untuk content creator dengan layar berwarna akurat.",
+    "category": "Creator",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "64 GB",
+      "storage": "2 TB SSD"
+    }
+  },
+  {
+    "name": "Laptop Premium X",
+    "price": "Rp 30,000,000",
+    "description": "Laptop premium dengan desain dan fitur canggih.",
+    "category": "Premium",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3080"
+    }
+  },
+  {
+    "name": "Laptop Works M",
+    "price": "Rp 35,000,000",
+    "description": "Laptop works untuk profesional dengan performa tinggi.",
+    "category": "Works",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Xeon",
+      "ram": "64 GB",
+      "storage": "2 TB SSD",
+      "graphics": "NVIDIA Quadro"
+    }
+  },
+  {
+    "name": "Laptop Gaming S",
+    "price": "Rp 22,000,000",
+    "description": "Laptop gaming dengan desain ramping dan performa luar biasa.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA RTX 3060"
+    }
+  },
+  {
+    "name": "Laptop Gaming A",
+    "price": "Rp 15,000,000",
+    "description": "Laptop Gaming dengan performa tinggi.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA GTX 1650"
+    }
+  },
+  {
+    "name": "Laptop Office B",
+    "price": "Rp 10,000,000",
+    "description": "Laptop ideal untuk kebutuhan kantor.",
+    "category": "Office",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Gaming X",
+    "price": "Rp 18,000,000",
+    "description": "Performa gaming super cepat dengan layar 144Hz.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 7",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3060"
+    }
+  },
+  {
+    "name": "Laptop Office C",
+    "price": "Rp 8,500,000",
+    "description": "Laptop portabel dan hemat daya untuk pekerjaan sehari-hari.",
+    "category": "Office",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i3",
+      "ram": "4 GB",
+      "storage": "128 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Premium D",
+    "price": "Rp 25,000,000",
+    "description": "Laptop premium dengan desain elegan dan performa terbaik.",
+    "category": "Premium",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3080"
+    }
+  },
+  {
+    "name": "Laptop Gaming Z",
+    "price": "Rp 20,000,000",
+    "description": "Laptop gaming dengan layar 4K untuk pengalaman visual luar biasa.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA GTX 1660 Ti"
+    }
+  },
+  {
+    "name": "Laptop Design E",
+    "price": "Rp 12,000,000",
+    "description": "Laptop dengan desain tipis dan layar berkualitas tinggi.",
+    "category": "Design",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Business F",
+    "price": "Rp 13,000,000",
+    "description": "Laptop bisnis dengan daya tahan baterai yang lama.",
+    "category": "Business",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "512 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Entertain G",
+    "price": "Rp 9,000,000",
+    "description": "Laptop dengan audio dan layar terbaik untuk hiburan.",
+    "category": "Entertain",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "512 GB SSD",
+      "graphics": "Intel UHD Graphics"
+    }
+  },
+  {
+    "name": "Laptop Gaming Y",
+    "price": "Rp 17,000,000",
+    "description": "Laptop gaming dengan kecepatan refresh tinggi.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 2070"
+    }
+  },
+  {
+    "name": "Laptop Ultrabook H",
+    "price": "Rp 14,000,000",
+    "description": "Laptop ultrabook dengan performa dan portabilitas tinggi.",
+    "category": "Ultrabook",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Business Pro I",
+    "price": "Rp 20,000,000",
+    "description": "Laptop bisnis dengan performa dan desain premium.",
+    "category": "Business",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD"
+    }
+  },
+  {
+    "name": "Laptop Budget J",
+    "price": "Rp 7,500,000",
+    "description": "Laptop budget dengan spesifikasi yang cukup untuk kebutuhan dasar.",
+    "category": "Budget",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Pentium",
+      "ram": "4 GB",
+      "storage": "128 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop 2-in-1 K",
+    "price": "Rp 13,500,000",
+    "description": "Laptop 2-in-1 yang bisa digunakan sebagai tablet.",
+    "category": "Convertible",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i5",
+      "ram": "8 GB",
+      "storage": "256 GB SSD"
+    }
+  },
+  {
+    "name": "Laptop Creator L",
+    "price": "Rp 25,000,000",
+    "description": "Laptop khusus untuk content creator dengan layar berwarna akurat.",
+    "category": "Creator",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i9",
+      "ram": "64 GB",
+      "storage": "2 TB SSD"
+    }
+  },
+  {
+    "name": "Laptop Premium X",
+    "price": "Rp 30,000,000",
+    "description": "Laptop premium dengan desain dan fitur canggih.",
+    "category": "Premium",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "AMD Ryzen 9",
+      "ram": "32 GB",
+      "storage": "1 TB SSD",
+      "graphics": "NVIDIA RTX 3080"
+    }
+  },
+  {
+    "name": "Laptop Works M",
+    "price": "Rp 35,000,000",
+    "description": "Laptop works untuk profesional dengan performa tinggi.",
+    "category": "Works",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Xeon",
+      "ram": "64 GB",
+      "storage": "2 TB SSD",
+      "graphics": "NVIDIA Quadro"
+    }
+  },
+  {
+    "name": "Laptop Gaming S",
+    "price": "Rp 22,000,000",
+    "description": "Laptop gaming dengan desain ramping dan performa luar biasa.",
+    "category": "Gaming",
+    "image": "https://ik.imagekit.io/xnl4hkzkx/1730052612763__PCtXmlct.png",
+    "specifications": {
+      "processor": "Intel Core i7",
+      "ram": "16 GB",
+      "storage": "512 GB SSD",
+      "graphics": "NVIDIA RTX 3060"
+    }
+  }
+]
